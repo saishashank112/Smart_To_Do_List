@@ -1,12 +1,42 @@
-# React + Vite
+# 🧠 Focus Forge - XP-Based Task Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, glassmorphic productivity app built with **React**, **Tailwind CSS**, and **Vite** to help you manage tasks, earn XP, and stay laser-focused.
 
-Currently, two official plugins are available:
+![Uploading image.png…]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ✅ Add, complete, delete tasks
+- 🧠 XP system (+10 XP per task)
+- ⏱️ Built-in focus timer
+- 📊 Live stats + session tracker
+- 🌪️ Blurred UI with Tailwind's `backdrop-blur`
+- 💾 LocalStorage persistence
+- ⚡ Powered by Vite + HMR for ultra-fast dev experience
+
+---
+
+## 🛠 Tech Stack
+
+- [React](https://reactjs.org/) — with hooks
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) — blazing fast bundler
+- [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+---
+
+## 📦 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/saishashank112/Smart_To_Do_List.git
+cd Smart_To_Do_List
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
