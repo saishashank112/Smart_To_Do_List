@@ -2,7 +2,8 @@
 
 A modern, glassmorphic productivity app built with **React**, **Tailwind CSS**, and **Vite** to help you manage tasks, earn XP, and stay laser-focused.
 
-![Uploading image.png…]()
+<img width="1338" height="622" alt="image" src="https://github.com/user-attachments/assets/6512f2af-d210-4c7b-9390-733b7833dab0" />
+
 
 
 ---
